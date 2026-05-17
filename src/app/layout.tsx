@@ -7,6 +7,9 @@ export const metadata: Metadata = {
     'Full Stack Developer based in Bangalore, India. Specialized in React.js, TypeScript, Next.js, Node.js, and Golang.',
   keywords: ['Full Stack Developer', 'React', 'TypeScript', 'Next.js', 'Golang', 'Node.js', 'AWS'],
   authors: [{ name: 'Shaik Babasaheb' }],
+  icons: {
+    icon: '/favicon.svg',
+  },
 };
 
 export default function RootLayout({

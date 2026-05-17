@@ -62,7 +62,7 @@ export const projects: Project[] = [
   {
     year: '2024',
     icon: '🛒',
-    image: '/EasternGate.png',
+    image: './EasternGate.png',
     title: 'Eastern Gate Online',
     desc: 'Responsive e-commerce application for construction hardware tools with seamless mobile and desktop shopping experience, full product catalog and cart.',
     tech: ['Next.js', 'React.js', 'Node.js', 'PostgreSQL'],
@@ -72,7 +72,7 @@ export const projects: Project[] = [
   {
     year: '2024',
     icon: '🎨',
-    image: '/ChromaCraft.png',
+    image: './ChromaCraft.png',
     title: 'ChromaCraft – Paint Business',
     desc: 'Full-featured paint business web app for ChromaCraft Painting Services, Bengaluru. Includes service listings (interior, exterior, texture, waterproofing), before & after portfolio, cost calculator, color visualizer, and client testimonials — serving 1200+ projects with 98% client satisfaction.',
     tech: ['React.js', 'TypeScript', 'TailwindCSS', 'Vite'],
@@ -82,7 +82,7 @@ export const projects: Project[] = [
   {
     year: '2025',
     icon: '🏨',
-    image: '/Nirantara.png',
+    image: './Nirantara.png',
     title: 'Nirantara Resort',
     desc: "A modern, responsive resort website for Nirantara — Bangalore's premier nature retreat. Features multi-page layout with room bookings, curated experiences (spa, archery, zipline, trekking), event venues, dining, packages, and guest testimonials. 90 min from Bangalore, 12+ acres of nature.",
     tech: ['Next.js 16', 'TypeScript', 'TailwindCSS', 'App Router'],
@@ -91,7 +91,7 @@ export const projects: Project[] = [
   },{
     year: '2025',
     icon: '🗺️',
-    image: '/MasterMind.png',
+    image: './MasterMind.png',
     title: 'MasterMind',
     desc: 'Web application for the Ohio government to manage road strips, replicating legacy Stripe Master functionality with 3D map views and geometry editing.',
     tech: ['Next.js', 'TypeScript', 'NextAuth', 'WebGL'],
